@@ -24,6 +24,10 @@ body {
     font-size: 32px;
 }
 
+p, h3 {
+    background-color: aliceblue;
+}
+
 a {
     color: #2d3c49;
 }
